@@ -1,0 +1,20 @@
+ICAO,IATA,name,city,fuel
+VIDP,DEL,Indira Gandhi International,Delhi,500000.0
+VABB,BOM,Chhatrapati Shivaji Maharaj,Mumbai,450000.0
+VOMM,MAA,Chennai International,Chennai,300000.0
+VECC,CCU,Netaji Subhas Chandra Bose,Kolkata,280000.0
+VOBL,BLR,Kempegowda International,Bengaluru,400000.0
+VOHS,HYD,Rajiv Gandhi International,Hyderabad,350000.0
+EGLL,LHR,Heathrow,London,105.0
+CDG,CDG,Charles de Gaulle,Paris,110.0
+FRA,FRA,Frankfurt,Frankfurt,108.0
+JFK,JFK,John F. Kennedy,New York,120.0
+SIN,SIN,Changi,Singapore,95.0
+DXB,DXB,Dubai Intl,Dubai,90.0
+DOH,DOH,Hamad Intl,Doha,92.0
+KUL,KUL,Kuala Lumpur,Kuala Lumpur,88.0
+BKK,BKK,Suvarnabhumi,Bangkok,87.0
+HKG,HKG,Hong Kong Intl,Hong Kong,100.0
+CMB,CMB,Bandaranaike,Colombo,85.0
+MLE,MLE,Velana Intl,Malé,86.0
+MCT,MCT,Muscat Intl,Muscat,89.0
